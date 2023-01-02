@@ -24,5 +24,4 @@
     color: red;
     }
     '''
-
     </details>
